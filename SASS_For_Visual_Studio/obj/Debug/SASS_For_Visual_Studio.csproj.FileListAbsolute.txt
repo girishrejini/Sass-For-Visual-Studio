@@ -1,0 +1,12 @@
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\bin\Debug\SASS_For_Visual_Studio.dll
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\bin\Debug\SASS_For_Visual_Studio.pdb
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\bin\Debug\SASS_For_Visual_Studio.xml
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\SASS_For_Visual_Studio.csproj.ResolveComReference.cache
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\SASS_For_Visual_Studio.dll
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\SASS_For_Visual_Studio.pdb
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\Decl\SASS_For_Visual_Studio.dll
+C:\Users\girish\Documents\My Dropbox\Work\ABSG\Accomplishments\Pet projects\SASS_For_Visual_Studio\SASS_For_Visual_Studio\obj\Debug\Decl\SASS_For_Visual_Studio.pdb
+C:\Users\girish\Dropbox\Work\SASS_For_Visual_Studio\Sass-For-Visual-Studio\SASS_For_Visual_Studio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\girish\Dropbox\Work\SASS_For_Visual_Studio\Sass-For-Visual-Studio\SASS_For_Visual_Studio\obj\Debug\SASS_For_Visual_Studio.dll
+C:\Users\girish\Dropbox\Work\SASS_For_Visual_Studio\Sass-For-Visual-Studio\SASS_For_Visual_Studio\obj\Debug\SASS_For_Visual_Studio.pdb
